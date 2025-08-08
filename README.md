@@ -17,8 +17,8 @@
 - 🌱 **I’m currently learning:** Python, C, C++, C#, .NET, Rust  
 - 📫 **E-Mail:** [nazarburlan3@outlook.com](mailto:nazarburlan3@outlook.com)  
 - ⚡ **Fun fact:** My bday is 11 July. Not a fun fact tbh...
-- 📞 **Phone:** `+48 574 083 700`  
-- 🎮 **Discord:** `gamerochik#0000`  
+- 📞 **Telegram:** @Foxy_anima
+- 🎮 **Discord:** nazarhk
 
 ---
 
