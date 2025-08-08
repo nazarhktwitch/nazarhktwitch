@@ -87,7 +87,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazarhktwitch&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarhktwitch&" alt="GitHub Streak" />
-</div>
