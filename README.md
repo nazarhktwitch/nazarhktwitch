@@ -27,9 +27,6 @@
   <a href="https://www.youtube.com/@Z1orXX" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@z1orxx" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/ZuA8jVjNvv" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZuA8jVjNvv" height="30" width="40" />
-  </a>
 </p>
 
 ---
