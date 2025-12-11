@@ -15,7 +15,7 @@
 
 ### About Me
 - **I’m currently learning:** Python, C, C++, C#, .NET, Rust  
-- **E-Mail:** [nazarburlan3@outlook.com](mailto:nazarburlan3@outlook.com)  
+- **E-Mail:** [nazarburlan2@gmail.com](mailto:nazarburlan2@gmail.com)  
 - **Telegram:** @Foxy_anima
 - **Discord:** nazarhk
 
