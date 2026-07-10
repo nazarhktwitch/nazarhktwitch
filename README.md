@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=nazarhktwitch" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=nazarhktwitch&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
