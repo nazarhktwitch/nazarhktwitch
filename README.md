@@ -44,8 +44,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
+</a>
+
 <a href="https://www.rust-lang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -56,16 +60,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-</a>
-
 <a href="https://www.sqlite.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
