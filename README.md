@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://www.rust-lang.org/" target="_blank">
-<img src="https://e7.pngegg.com/pngimages/114/914/png-clipart-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon.png" width="40" height="40"/>
+  <img src="./assets/rust-logo.svg" width="40" height="40" alt="rust"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
