@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6V52AOxt9h6eeZgsXozoPrWpzPJqLLu1Pqb33ipLR1QViLTA-D6YJss&s=10" width="40" height="40"/>
 </a>
 
 <a href="https://www.rust-lang.org/" target="_blank">
